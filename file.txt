@@ -1,3 +1,7 @@
 hello friends
-how are you doing today
-whatever happens always be happy and shine in your own way.
+hai this is the sentence created in git bash with the help of cat command to priint multiple lines
+
+Thank you
+hello world
+hai friends
+habibi come to dubai
